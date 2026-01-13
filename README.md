@@ -10,32 +10,8 @@
 ## ✨ 功能亮点
 
 - **支持的设备** 📡：
-  - 中国移动 RAX3000M NAND
   - 中国移动 RAX3000M eMMC
-  - Cudy AP3000 AX3000
-  - Cudy AP3000 户外版
-  - Cudy M3000 AX3000
-  - Cudy RE3000 AX3000 中继器
-  - Cudy TR3000 AX3000
-  - Cudy TR3000 AX3000 256MB
-  - Cudy WR3000 AX3000
-  - Cudy WR3000S AX3000 增强版
-  - GL.iNet Mango AX MT2500
-  - GL.iNet Beryl AX MT3000
-  - GL.iNet X3000 LTE
-  - GL.iNet XE3000 工业级 LTE
-  - H3C NX30 Pro 魔术路由器
-  - 华思飞 WH3000 Pro
-  - 华思飞 WH3000 eMMC
-  - JCG Q30 Pro AX3000
-  - Livinet ZR3020 AX3000
-  - Routerich AX3000
-  - Routerich AX3000 V1
-  - 小米 AX3000T
-  - 小米 WR30U 原厂
-  - 红米 AX6000 原厂
-  - 合勤 EX5601-T0 原厂
-  - 合勤 NWA50AX Pro AP
+
 
 - **自动编译** ⏰：每周五北京时间 **15:00（UTC 07:00）** 检查源仓库更新，若有新提交，自动为所有支持的设备编译固件。
 - **5G 25dB 增强** 📶：支持启用 5G 高功率模式（默认启用，手动编译时可选择是否启用）。
